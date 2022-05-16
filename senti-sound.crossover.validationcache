@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Virtual Acoustics\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Triggers\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Switches\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\States\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\SoundBanks\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\senti-sound.wproj" DateLow="1652572038" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\senti-sound.crossover.wsettings" DateLow="1652686803" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Queries\Factory Queries.wwu" DateLow="1652176494" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Queries\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Presets\Factory Spatial Audio.wwu" DateLow="1652176494" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Presets\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Modulators\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Mixing Sessions\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Metadata\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Game Parameters\Factory SoundSeed Grain.wwu" DateLow="1652657238" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Game Parameters\Default Work Unit.wwu" DateLow="1652685788" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Events\haptics-you-can-hear.wwu" DateLow="1652662884" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Events\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Effects\Factory Effects.wwu" DateLow="1652176494" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Effects\Default Work Unit.wwu" DateLow="1652575106" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Conversion Settings\Factory SoundSeed Grain.wwu" DateLow="1652657238" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1652176494" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Conversion Settings\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Control Surface Sessions\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Audio Devices\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Attenuations\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Actor-Mixer Hierarchy\haptics-you-can-hear.wwu" DateLow="1652686335" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Actor-Mixer Hierarchy\Factory SoundSeed Grain.wwu" DateLow="1652657238" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\senti-sound\senti-sound\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1652571757" DateHigh="0"/>
+</ValidationCache>

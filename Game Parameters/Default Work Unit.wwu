@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4A2B748D-467A-40AE-8D27-338BF778801A}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{4A2B748D-467A-40AE-8D27-338BF778801A}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="physics_controller_speed" ID="{0691CBD5-6333-45C5-863D-83B1325B0D8C}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="5"/>
+						<Property Name="Max" Type="Real64" Value="13"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="physics_door_velocity" ID="{DF345C26-B99E-4588-821C-2F4A55839721}">
+					<PropertyList>
+						<Property Name="RTPCRamping" Type="int16" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="physics_lever_pull_strength" ID="{B7CFAAD5-1598-470D-91A5-18CB13497931}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

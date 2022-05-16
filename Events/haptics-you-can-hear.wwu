@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="haptics-you-can-hear" ID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="impact_heavy_hammer" ID="{18FB48B7-E719-4536-9B30-2E9F71B4DC0C}">
+					<ChildrenList>
+						<Action Name="" ID="{4F50A04D-362C-428A-B1BB-F183ED9371B4}" ShortID="775050466">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="impact_heavy_hammer" ID="{D27433D6-F534-46AF-90D9-EB16EF34423A}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="friction_hammer_start" ID="{9396A510-C7C9-4747-840A-8741B142BF7F}">
+					<ChildrenList>
+						<Action Name="" ID="{9A9EAAA3-5AD7-42EB-B134-5066AD56FB9B}" ShortID="668158429">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="friction_hammer" ID="{D9050EA9-E422-4AFE-A146-4D3541054598}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="friction_lever_creak" ID="{48CE0C28-9007-4F4A-9EE7-2DAD556F9A27}"/>
+				<Event Name="impact_light_hammer" ID="{476F84C1-F986-42A5-B5B0-6EFF6379CF77}">
+					<ChildrenList>
+						<Action Name="" ID="{7E53AD2C-18DB-4192-B93C-F53713B86D42}" ShortID="179166358">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="impact_light_hammer" ID="{89273432-018B-4432-8053-FAC69DD37CED}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="friction_door_start" ID="{6F52CC43-C19A-4EF6-A2D7-EC17DC20BA0F}">
+					<ChildrenList>
+						<Action Name="" ID="{3F4DD4BD-14C0-42C6-B487-D85E4CA46A8F}" ShortID="886860042">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="friction_door" ID="{65E24A14-84E3-4149-B1E6-CE9A89EC0768}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="impact_door" ID="{90EBB3CD-C969-4501-889C-D9114A5FBA1B}">
+					<ChildrenList>
+						<Action Name="" ID="{A3D72E97-786D-447D-A565-784689530A70}" ShortID="1058140227">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="impact_door" ID="{37DD01D9-4C8A-4E01-819B-8068FAA1C15E}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="friction_hammer_stop" ID="{622F9EFB-801D-4488-97F8-7683C0825FEF}">
+					<ChildrenList>
+						<Action Name="" ID="{68D25FE6-CA18-4DE2-A916-E73D752464B7}" ShortID="757149110">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="friction_hammer" ID="{D9050EA9-E422-4AFE-A146-4D3541054598}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="friction_door_stop" ID="{FC645E34-B59C-487D-A380-837B01762A65}">
+					<ChildrenList>
+						<Action Name="" ID="{8445E7E0-6C66-4493-81A0-A3D483B5AA5E}" ShortID="289461282">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="friction_door" ID="{65E24A14-84E3-4149-B1E6-CE9A89EC0768}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
