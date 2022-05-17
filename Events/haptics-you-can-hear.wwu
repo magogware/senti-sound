@@ -87,6 +87,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="impact_lever" ID="{2AC05E2A-030B-44CF-87A8-5716A733D09C}">
+					<ChildrenList>
+						<Action Name="" ID="{CD16C9B5-6AF2-481A-ABE2-1AFAA092B289}" ShortID="139009881">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="impact_lever" ID="{76D36719-A1A0-4AAF-96B8-783B7A226BF9}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

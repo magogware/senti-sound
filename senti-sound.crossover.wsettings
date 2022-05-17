@@ -5,6 +5,7 @@
 			<PropertyList>
 				<Property Name="AudioFilesImporter\Path" Type="string" Value="Y:\Desktop\"/>
 				<Property Name="Event Action List\{18FB48B7-E719-4536-9B30-2E9F71B4DC0C}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{2AC05E2A-030B-44CF-87A8-5716A733D09C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{476F84C1-F986-42A5-B5B0-6EFF6379CF77}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{48CE0C28-9007-4F4A-9EE7-2DAD556F9A27}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{622F9EFB-801D-4488-97F8-7683C0825FEF}\x64_Expand States" Type="string" Value=""/>
@@ -81,6 +82,7 @@
 				<Property Name="RTPC\GameParameterSimValue\{6279AF44-C082-4608-981E-9A63D1EE7555}" Type="Real64" Value="0"/>
 				<Property Name="RTPC\GameParameterSimValue\{63B3F29E-04F3-4887-BA1A-4D7694644B24}" Type="Real64" Value="0"/>
 				<Property Name="RTPC\GameParameterSimValue\{71905071-0A79-42FE-9CD6-C631171DC3A4}" Type="Real64" Value="0"/>
+				<Property Name="RTPC\GameParameterSimValue\{7898B62E-9E66-4829-A07B-E86E7B7F3F35}" Type="Real64" Value="18"/>
 				<Property Name="RTPC\GameParameterSimValue\{B7CFAAD5-1598-470D-91A5-18CB13497931}" Type="Real64" Value="100"/>
 				<Property Name="RTPC\GameParameterSimValue\{C092E65B-E5C4-4C55-8A68-576E98BBFF39}" Type="Real64" Value="0"/>
 				<Property Name="RTPC\GameParameterSimValue\{DF345C26-B99E-4588-821C-2F4A55839721}" Type="Real64" Value="90.348"/>

@@ -1224,6 +1224,73 @@
 						<ActiveSource Name="SoundSeed Grain" ID="{B6AA01F2-7B8B-478B-A1DD-3ABCDA2FD635}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="impact_lever" ID="{76D36719-A1A0-4AAF-96B8-783B7A226BF9}" ShortID="701587865">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>100</Value>
+							</ValueList>
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{E0C2D522-1879-46F3-B93A-20E35BFBCD8F}"/>
+								</ModifierInfo>
+							</ModifierList>
+							<RTPCList>
+								<RTPC Name="" ID="{5836A6C3-66D3-4BC2-B4E9-89FEE8E6066A}" ShortID="430492297">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="controls_lever_rotation_percentage" ID="{7898B62E-9E66-4829-A07B-E86E7B7F3F35}" WorkUnitID="{4A2B748D-467A-40AE-8D27-338BF778801A}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{DD425EAB-8E29-4883-B879-156D5F70FA0B}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="65537"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>0</YPos>
+												<Flags>5</Flags>
+												<SegmentShape>Log1</SegmentShape>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>1000</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{C8135D52-F5A7-4439-8E63-F6CEBEE246C8}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{A75318E1-88EB-4205-BE54-B1616D44CB79}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Pop Toy_TS 02" ID="{CE85895E-06EA-47F1-847C-727CE4E6BDCC}">
+							<PropertyList>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="0.329018229166667"/>
+								<Property Name="TrimEnd" Type="Real64" Value="0.496413468567251"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>Pop Toy_TS 02.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="416518504"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Pop Toy_TS 02" ID="{CE85895E-06EA-47F1-847C-727CE4E6BDCC}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
