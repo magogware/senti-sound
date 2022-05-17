@@ -97,7 +97,31 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="friction_lever_start" ID="{71A3FBD7-9C70-4B06-906E-98CED37513AD}"/>
+				<Event Name="friction_lever_start" ID="{71A3FBD7-9C70-4B06-906E-98CED37513AD}">
+					<ChildrenList>
+						<Action Name="" ID="{2DCC8ACF-8457-458C-B6CE-8ADE4CE6EDCB}" ShortID="373183874">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="friction_lever" ID="{C8D0207E-2AAA-48BC-8A7E-17A03D1071A9}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="friction_lever_stop" ID="{B7FE9382-1C92-45B1-829D-0D153AEBF195}">
+					<ChildrenList>
+						<Action Name="" ID="{EB6300C1-E109-437D-8047-6BBEC9AE8453}" ShortID="635183264">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="friction_lever" ID="{C8D0207E-2AAA-48BC-8A7E-17A03D1071A9}" WorkUnitID="{ED56DF3B-9B2B-4E90-BCF7-CA2981912C48}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
