@@ -25,7 +25,6 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="friction_lever_creak" ID="{48CE0C28-9007-4F4A-9EE7-2DAD556F9A27}"/>
 				<Event Name="impact_light_hammer" ID="{476F84C1-F986-42A5-B5B0-6EFF6379CF77}">
 					<ChildrenList>
 						<Action Name="" ID="{7E53AD2C-18DB-4192-B93C-F53713B86D42}" ShortID="179166358">
@@ -98,6 +97,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="friction_lever_start" ID="{71A3FBD7-9C70-4B06-906E-98CED37513AD}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
