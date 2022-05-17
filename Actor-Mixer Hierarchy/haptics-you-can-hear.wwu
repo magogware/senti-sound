@@ -21,7 +21,7 @@
 												<RTPC Name="" ID="{7327C71E-BEC9-4267-A3EC-73424BDDBF7E}" ShortID="114359121">
 													<ReferenceList>
 														<Reference Name="ControlInput">
-															<ObjectRef Name="physics_controller_speed" ID="{0691CBD5-6333-45C5-863D-83B1325B0D8C}" WorkUnitID="{4A2B748D-467A-40AE-8D27-338BF778801A}"/>
+															<ObjectRef Name="physics_controller_speed" ID="{0691CBD5-6333-45C5-863D-83B1325B0D8C}" WorkUnitID="{E7E79DC9-F737-40EB-B964-6989F27593B1}"/>
 														</Reference>
 													</ReferenceList>
 													<Curve Name="" ID="{4A5C99AF-7097-4751-8D67-BD9E7B2EB3C6}">
@@ -188,7 +188,7 @@
 												<RTPC Name="" ID="{EB1F625F-AE8B-4999-8F60-375EE9FDE020}" ShortID="941640495">
 													<ReferenceList>
 														<Reference Name="ControlInput">
-															<ObjectRef Name="physics_controller_speed" ID="{0691CBD5-6333-45C5-863D-83B1325B0D8C}" WorkUnitID="{4A2B748D-467A-40AE-8D27-338BF778801A}"/>
+															<ObjectRef Name="physics_controller_speed" ID="{0691CBD5-6333-45C5-863D-83B1325B0D8C}" WorkUnitID="{E7E79DC9-F737-40EB-B964-6989F27593B1}"/>
 														</Reference>
 													</ReferenceList>
 													<Curve Name="" ID="{58E5BA61-9E01-49DF-BADE-62BAB080D47C}">
@@ -375,7 +375,7 @@
 								<RTPC Name="" ID="{ECB38E23-16C8-48B4-809A-39FC55496F03}" ShortID="601055314">
 									<ReferenceList>
 										<Reference Name="ControlInput">
-											<ObjectRef Name="physics_door_velocity" ID="{DF345C26-B99E-4588-821C-2F4A55839721}" WorkUnitID="{4A2B748D-467A-40AE-8D27-338BF778801A}"/>
+											<ObjectRef Name="physics_door_velocity" ID="{DF345C26-B99E-4588-821C-2F4A55839721}" WorkUnitID="{E7E79DC9-F737-40EB-B964-6989F27593B1}"/>
 										</Reference>
 									</ReferenceList>
 									<Curve Name="" ID="{44A6DE92-E408-437C-8A9C-6EADA80AAC92}">
@@ -817,7 +817,7 @@
 								<RTPC Name="" ID="{9162FA94-AA35-4B3C-BC97-5511A0F57DA3}" ShortID="585460596">
 									<ReferenceList>
 										<Reference Name="ControlInput">
-											<ObjectRef Name="physics_controller_speed" ID="{0691CBD5-6333-45C5-863D-83B1325B0D8C}" WorkUnitID="{4A2B748D-467A-40AE-8D27-338BF778801A}"/>
+											<ObjectRef Name="physics_controller_speed" ID="{0691CBD5-6333-45C5-863D-83B1325B0D8C}" WorkUnitID="{E7E79DC9-F737-40EB-B964-6989F27593B1}"/>
 										</Reference>
 									</ReferenceList>
 									<Curve Name="" ID="{6E179391-0214-46D9-8047-D340BBE3FB9E}">
@@ -1079,7 +1079,7 @@
 											<Comment>Density of grains should be lower at lower pull strengths.</Comment>
 											<ReferenceList>
 												<Reference Name="ControlInput">
-													<ObjectRef Name="physics_lever_pull_strength" ID="{B7CFAAD5-1598-470D-91A5-18CB13497931}" WorkUnitID="{4A2B748D-467A-40AE-8D27-338BF778801A}"/>
+													<ObjectRef Name="physics_lever_pull_strength" ID="{B7CFAAD5-1598-470D-91A5-18CB13497931}" WorkUnitID="{E7E79DC9-F737-40EB-B964-6989F27593B1}"/>
 												</Reference>
 											</ReferenceList>
 											<Curve Name="" ID="{B59B43AF-DCB4-491F-822F-76A29175A9A9}">
@@ -1112,7 +1112,7 @@
 										<RTPC Name="" ID="{C3879BEB-FEDA-483E-8DDF-BFE1758DA649}" ShortID="229207882">
 											<ReferenceList>
 												<Reference Name="ControlInput">
-													<ObjectRef Name="physics_lever_pull_strength" ID="{B7CFAAD5-1598-470D-91A5-18CB13497931}" WorkUnitID="{4A2B748D-467A-40AE-8D27-338BF778801A}"/>
+													<ObjectRef Name="physics_lever_pull_strength" ID="{B7CFAAD5-1598-470D-91A5-18CB13497931}" WorkUnitID="{E7E79DC9-F737-40EB-B964-6989F27593B1}"/>
 												</Reference>
 											</ReferenceList>
 											<Curve Name="" ID="{A75001FA-3D7D-44BC-8871-1F486620FA47}">
@@ -1140,7 +1140,7 @@
 										<RTPC Name="" ID="{110C59F4-0BD1-4CCA-AD7B-6308938E4BA3}" ShortID="780330333">
 											<ReferenceList>
 												<Reference Name="ControlInput">
-													<ObjectRef Name="physics_lever_pull_strength" ID="{B7CFAAD5-1598-470D-91A5-18CB13497931}" WorkUnitID="{4A2B748D-467A-40AE-8D27-338BF778801A}"/>
+													<ObjectRef Name="physics_lever_pull_strength" ID="{B7CFAAD5-1598-470D-91A5-18CB13497931}" WorkUnitID="{E7E79DC9-F737-40EB-B964-6989F27593B1}"/>
 												</Reference>
 											</ReferenceList>
 											<Curve Name="" ID="{811F32B3-7F26-4819-885A-883A532A6371}">
@@ -1256,7 +1256,7 @@
 								<RTPC Name="" ID="{5836A6C3-66D3-4BC2-B4E9-89FEE8E6066A}" ShortID="430492297">
 									<ReferenceList>
 										<Reference Name="ControlInput">
-											<ObjectRef Name="controls_lever_rotation_percentage" ID="{7898B62E-9E66-4829-A07B-E86E7B7F3F35}" WorkUnitID="{4A2B748D-467A-40AE-8D27-338BF778801A}"/>
+											<ObjectRef Name="controls_lever_rotation_percentage" ID="{7898B62E-9E66-4829-A07B-E86E7B7F3F35}" WorkUnitID="{E7E79DC9-F737-40EB-B964-6989F27593B1}"/>
 										</Reference>
 									</ReferenceList>
 									<Curve Name="" ID="{DD425EAB-8E29-4883-B879-156D5F70FA0B}">
