@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{5C453AD1-DA26-4BD4-9F49-7912CACCA254}" SchemaVersion="103">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{5C453AD1-DA26-4BD4-9F49-7912CACCA254}" PersistMode="Standalone">
-			<ChildrenList>
-				<SoundBank Name="haptics_you_can_hear" ID="{698FECBF-D6DC-4AA0-BE26-88CA7B190B92}">
-					<ObjectInclusionList>
-						<ObjectRef Name="impact_light_hammer" ID="{476F84C1-F986-42A5-B5B0-6EFF6379CF77}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="friction_hammer_stop" ID="{622F9EFB-801D-4488-97F8-7683C0825FEF}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="impact_lever" ID="{2AC05E2A-030B-44CF-87A8-5716A733D09C}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="impact_door" ID="{90EBB3CD-C969-4501-889C-D9114A5FBA1B}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="impact_heavy_hammer" ID="{18FB48B7-E719-4536-9B30-2E9F71B4DC0C}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="friction_lever_stop" ID="{B7FE9382-1C92-45B1-829D-0D153AEBF195}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="friction_hammer_start" ID="{9396A510-C7C9-4747-840A-8741B142BF7F}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="friction_door_stop" ID="{FC645E34-B59C-487D-A380-837B01762A65}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="friction_lever_start" ID="{71A3FBD7-9C70-4B06-906E-98CED37513AD}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="friction_door_start" ID="{6F52CC43-C19A-4EF6-A2D7-EC17DC20BA0F}" WorkUnitID="{D9486530-C2C6-472D-95EF-EDEDF569CF10}" Origin="Manual" Filter="7"/>
-					</ObjectInclusionList>
-					<ObjectExclusionList/>
-					<GameSyncExclusionList/>
-				</SoundBank>
-			</ChildrenList>
-		</WorkUnit>
+		<WorkUnit Name="Default Work Unit" ID="{5C453AD1-DA26-4BD4-9F49-7912CACCA254}" PersistMode="Standalone"/>
 	</SoundBanks>
 </WwiseDocument>
